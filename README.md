@@ -14,6 +14,7 @@ Now building tools for AI trust, model evaluation, and sovereign Canadian AI.
 | [Zeever](https://www.zeever.ca) | RAG-powered AI assistant for City of Toronto services — cited answers from official sources |
 | [EVD2](https://www.evd2.ca) | Track every electric vehicle in Canada — pricing, incentives, recalls, and news in one place |
 | [Fresh News](https://www.freshnews.ca) | Bilingual Canadian news aggregator — headlines from trusted outlets, English and French |
+| [Toronto Parks Atlas](https://www.torontoparkatlas.ca) | Data-driven analysis of all 3,273 Toronto parks — measuring how each balances urban vitality and ecological refuge |
 
 All shipped through [Idea Warehouse](https://www.ideawarehouse.ca), my product lab in Toronto.
 
