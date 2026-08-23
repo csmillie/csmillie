@@ -12,6 +12,7 @@ Now building tools for AI trust, model evaluation, and sovereign Canadian AI.
 |---------|-------------|
 | [ModelTrust](https://www.modeltrust.app) | AI model evaluation platform — compare outputs across LLMs, measure reliability, flag when human review is needed |
 | [Zeever](https://www.zeever.ca) | RAG-powered AI assistant for City of Toronto services — cited answers from official sources |
+| [Toraffic](https://www.toraffic.ca) | Interactive map of Toronto roadwork, lane closures, and CaféTO patios — time-of-day congestion model and per-block impact scoring on City open data |
 | [EVD2](https://www.evd2.ca) | Track every electric vehicle in Canada — pricing, incentives, recalls, and news in one place |
 | [Fresh News](https://www.freshnews.ca) | Bilingual Canadian news aggregator — headlines from trusted outlets, English and French |
 | [Toronto Parks Atlas](https://www.torontoparkatlas.ca) | Data-driven analysis of all 3,273 Toronto parks — measuring how each balances urban vitality and ecological refuge |
@@ -30,6 +31,7 @@ All shipped through [Idea Warehouse](https://www.ideawarehouse.ca), my product l
 - AI model trust and multi-model evaluation frameworks
 - AI governance, policy, and responsible deployment
 - Generative Engine Optimization (GEO) for AI-native discovery
+- Civic and open data made legible — maps, models, and rankings from municipal sources
 - Sovereign and low-cost AI infrastructure for Canadian contexts
 - RAG systems with citation and evidence grounding
 
