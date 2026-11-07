@@ -10,12 +10,13 @@ Now building tools for AI trust, model evaluation, and sovereign Canadian AI.
 
 | Project | What It Does |
 |---------|-------------|
-| [ModelTrust](https://www.modeltrust.app) | AI model evaluation platform — compare outputs across LLMs, measure reliability, flag when human review is needed |
-| [Zeever](https://www.zeever.ca) | RAG-powered AI assistant for City of Toronto services — cited answers from official sources |
-| [Toraffic](https://www.toraffic.ca) | Interactive map of Toronto roadwork, lane closures, and CaféTO patios — time-of-day congestion model and per-block impact scoring on City open data |
-| [EVD2](https://www.evd2.ca) | Track every electric vehicle in Canada — pricing, incentives, recalls, and news in one place |
-| [Fresh News](https://www.freshnews.ca) | Bilingual Canadian news aggregator — headlines from trusted outlets, English and French |
-| [Toronto Parks Atlas](https://www.torontoparkatlas.ca) | Data-driven analysis of all 3,273 Toronto parks — measuring how each balances urban vitality and ecological refuge |
+| [ModelTrust](https://www.modeltrust.app) | AI model evaluation platform — runs the same questions across GPT, Claude, Gemini, and others, with structured benchmarks, trust scoring, disagreement detection, and cost per query |
+| [Zeever](https://www.zeever.ca) | Free RAG-powered AI assistant for City of Toronto services — cited answers from official Toronto.ca content, plus research on Canada's AI compute and data centre landscape |
+| [Haliburton Atlas](https://www.haliburtonatlas.ca) | Civic data atlas for Haliburton County, Ontario — 245 measures from 16 public sources comparing its four townships on cost and service, with a source and caveat on every number and every per-person figure shown on multiple population bases |
+| [Toronto Parks Atlas](https://www.torontoparksatlas.ca) | Data-driven analysis of 3,753 Toronto parks — measuring how each balances Jane Jacobs-style urban vitality and ecological refuge |
+| [Toraffic](https://www.toraffic.ca) | Live map of Toronto roadwork, lane closures, and CaféTO patios — time-of-day traffic impact modelling, route comparison, and transit and cycling views on City open data |
+| [EVD2](https://www.evd2.ca) | Track any electric vehicle sold in Canada — 220+ vehicles and 4,600+ articles covering pricing, incentives, recalls, and news, refreshed daily |
+| [Fresh News](https://www.freshnews.ca) | Bilingual Canadian news aggregator — headlines from 70+ trusted outlets, English and French |
 
 All shipped through [Idea Warehouse](https://www.ideawarehouse.ca), my product lab in Toronto.
 
